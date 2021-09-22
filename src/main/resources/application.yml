@@ -11,8 +11,8 @@ cloud:
 application:
   aws:
     credentials:
-      access-key: AKIAWMDOQGSXU4Z4AKEF
-      secret-key: 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
+      access-key: 
+      secret-key: 
     sns: # simple notification service
       arn: # amazon resource name
         otp-topic-arn: arn:aws:sns:us-east-2:438318412975:OTP-Topic
